@@ -1,5 +1,7 @@
 Este es un proyecto que implementa jQuery,conexion PDO y react
 
+la pagina index.html cumple con la w3c 😎
+
 Para el uso de esta pagina web asegurece de tener los siguientes requisitos
 -Apache
 -Conexion a internet
