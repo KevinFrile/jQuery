@@ -3,6 +3,11 @@
     margin: 0px;
 }
 
+hr{
+    background-color: white;
+    border: solid 3px white;
+}
+
 /* Letras */
 
 .letra1{
@@ -19,6 +24,7 @@
     font-weight: 600;
     letter-spacing: 0.1em;
     font-size:1.2em;
+    padding: 10px;
 }
 
 /* Colores */
@@ -47,6 +53,19 @@
     position: fixed;
     
 }
+.offcanvas-body h4{
+    color: white;
+}
+#navbar-crud{
+    width: 100%;
+    background-color: #368eec;
+    padding: 19px;
+    
+}
+
+#navbar-crud a{
+    padding-left: 6.5%;
+}
 
 #enlace1{
 
@@ -63,33 +82,24 @@
 
 }
 
-.enlace2{
-
-    font-size:1.1em;
-    margin-left: 1%;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-}
-
-.enlace2:hover{
-
-    color: rgb(0, 0, 0);
-    transition: 0.3s;
-}
-
 .enlace2collapsado{
 
-    font-size:1.1em;
-    margin-left: 1.4%;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    padding-left:34%;
+        
 }
 
 .enlace2collapsado:hover{
 
     color: rgb(0, 0, 0);
     transition: 0.3s
+
+}
+
+.enlace2collapsado h4{
+
+    margin-bottom: 5%;
+    font-size:1.3em;
 
 }
 

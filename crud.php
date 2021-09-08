@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
     <title>PHP Jquery Ajax CRUD Example</title>
@@ -27,12 +27,27 @@
         var url = "http://localhost/jquery/";
     </script>
     <script src="js/item-ajax.js"></script>
+
+    <!-- Estilos CSS MENU -->
+    <link rel="stylesheet" href="css/menu.css">
+
 </head>
 
 <body>
-    <br><br>
+    <div id="navbar-crud">
+        <nav>
+            <a id="enlace1" href="http://localhost/jquery/#Ejercicio-9">
+                VOLVER
+            </a>
+        </nav>
+
+    </div>
     <div class="container">
-        <div class="row">
+
+
+
+        <br><br>
+        <div class="row mt-5">
             <div class="col-lg-12 margin-tb">
                 <div class="pull-left">
                     <h2>PHP Jquery Ajax CRUD Example</h2>
