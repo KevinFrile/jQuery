@@ -11,7 +11,10 @@ Para el uso de esta pagina web asegurece de tener los siguientes requisitos
 
 Puede descargarlo o clonarlo en la carpeta htdocs
 
-el link de el proyecto es el siguiente
+El link de el proyecto es el siguiente
 http://localhost/jquery
+
+Asegurece de iniciar el proyecto react en la termina (carpeta react/MY-APP)
+con el comando npm start
 
 Copyright © Kevin Andres Fraile Camacho 2021
