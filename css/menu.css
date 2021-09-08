@@ -53,9 +53,16 @@ hr{
     position: fixed;
     
 }
-.offcanvas-body h4{
+.offcanvas-body h3{
     color: white;
+    padding:3%;
 }
+
+.offcanvas-body img{
+    padding: 30%;
+    padding-top: 0%;
+}
+
 #navbar-crud{
     width: 100%;
     background-color: #368eec;
